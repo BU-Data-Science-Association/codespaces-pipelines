@@ -8,3 +8,4 @@ azure-identity
 jupyter
 scikit-learn
 pymongo
+ipykernel
