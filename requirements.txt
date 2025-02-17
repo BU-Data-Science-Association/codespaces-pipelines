@@ -5,3 +5,5 @@ azure.storage.blob
 pyodbc
 azure-cosmos
 azure-identity
+jupyter
+scikit-learn
