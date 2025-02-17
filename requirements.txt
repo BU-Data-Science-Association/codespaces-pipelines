@@ -7,3 +7,4 @@ azure-cosmos
 azure-identity
 jupyter
 scikit-learn
+pymongo
